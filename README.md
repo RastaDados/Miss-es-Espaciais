@@ -81,9 +81,7 @@ Power BI
 
 <br>
 
-<h3><b>Descrição da Base:</b></h3>
-
-<br>
+<h3><b>Descrição da Base</b></h3>
 
 <h3><b>Quantidade de registros:</b></h3> 
 500 linhas
@@ -102,8 +100,6 @@ Valor Substituído, Tipo de dados alterado.
 <br>
 
 <h2>3. Análise Exploratória</h2>
-
-<br>
 
 <h3><b>Principais Estatísticas:</b></h3>
 Médias, medianas, distribuições, correlações.
@@ -126,8 +122,6 @@ Starship é o veículo com maior duração média de anos dentro de missões.
 
 <h2>4. Modelagem e KPIs</h2>
 
-<br>
-
 <h3><b>Métricas Importantes:</h3></b>
 Custo total por missões, Distância da terra em anos luz, Custo dos tripulantes por missão, Custo médio por missões, Sucesso médio por missão.
 
@@ -138,17 +132,35 @@ Custo total por missões, Distância da terra em anos luz, Custo dos tripulantes
 <br>
 
 <b>Dashboard Geral de missões:</b> Insights gerais das missões, detalhando custos por ano e detalhes das missões.
+
 <b>Dashboard Custos missões:</b> Detalhamento dos custos das missões, comparação de custo x campo científico.
+
 <b>Dashboard detalhes da missão:</b> Granularidade menor, mais informações das missões.
-________________________________________
-5. Conclusão e Próximos Passos
-Resumo dos Principais Resultados:
+
+<hr>
+<br>
+
+
+<h2>5. Conclusão e Próximos Passos</h2>
+
+<h3><b>Resumo dos Principais Resultados:</b></h3>
+
+<br>
+
 Aprendi bastante a entender as colunas de custos, para quando houver uma soma entender se está na casa dos milhões, bilhões ou na casa dos trilhões (como no caso do projeto atual).
 Substituir alguns valores que darão erro por conta do PowerBi está em pt-br, alguns caracteres como ponto para separar dados que é comumente usado nos EUA não funciona no PowerBi Br.
-Sugestões para Melhorias Futuras:
+
+<br>
+
+<h3><b>Sugestões para Melhorias Futuras:</b></h3>
+
+<br>
+
 Trazer mais filtros para os gráficos.
- Explorar algumas colunas que estão sem uso a fim de trazer informações mais detalhadas
-________________________________________
+Explorar algumas colunas que estão sem uso a fim de trazer informações mais detalhadas
+
+<hr>
+<br>
 
 
 
