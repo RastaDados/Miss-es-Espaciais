@@ -46,4 +46,4 @@ Este projeto foi desenvolvido para se ter uma análise detalhada sobre missões 
 <br>
 
 <h1>Documentação mais Detalhada em Vídeo</h1>
-<h4><a href="https://www.youtube.com/watch?v=5DUUGMAHTDo&list=PL32Jw9MJZGxU7ZPl_HRPCE8jHXt1KDL5g&index=5&ab_channel=MateusFran%C3%A7a-AnalistadeBi">Acesse aqui></a></h4>
+<h4><a href="https://www.youtube.com/watch?v=5DUUGMAHTDo&list=PL32Jw9MJZGxU7ZPl_HRPCE8jHXt1KDL5g&index=5&ab_channel=MateusFran%C3%A7a-AnalistadeBi">Acesse aqui</a></h4>
