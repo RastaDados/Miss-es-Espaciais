@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para se ter uma análise detalhada sobre missões 
 
 <br>
 
-<h2><a href="https://app.powerbi.com/groups/me/reports/27acfc39-f86e-4a66-b855-71c9f072f14e/195511f0933a793e56d0?experience=power-bi">Acesse o Dashboard aqui</a></h2>
+<h2><a href="https://app.powerbi.com/view?r=eyJrIjoiNTNjODUwMGItYWEwNC00MzczLTlkNDEtNzg5NGU2YjI5ZWM1IiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse o Dashboard aqui</a></h2>
 
 <hr>
 <br>
